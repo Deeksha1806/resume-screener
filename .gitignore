@@ -1,0 +1,11 @@
+# frontend
+resume-frontend/node_modules
+resume-frontend/build
+
+# backend
+resume-backend/target
+*.class
+
+# common
+.env
+*.log
